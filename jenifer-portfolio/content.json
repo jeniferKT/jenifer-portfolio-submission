@@ -1,0 +1,191 @@
+{
+  "profile": {
+    "englishName": "Jenifer Chen",
+    "chineseName": "ADD YOUR CHINESE NAME",
+    "professionalTitle": "Architectural Designer · Architectural Acoustics Researcher",
+    "locationLabel": "Taipei, Taiwan",
+    "summary": "PhD researcher in architectural acoustics with professional experience in architectural practice and a strong foundation in acoustics developed through master’s-level research. Experienced in acoustic simulation and auralization using ODEON, as well as on-site acoustic measurements including SPL, RT, and STC using Larson Davis 831 equipment. Skilled in data-driven analysis, EEG-based perceptual research, and Python, supported by an architectural background that enables an integrated approach to acoustic design and analysis.",
+    "profileImage": "images/profile-cutout.png",
+    "showLocation": false
+  },
+  "professionalProfile": {
+    "membershipTitle": "PROFESSIONAL MEMBERSHIP",
+    "membershipDescription": "Active member engaged in architectural and environmental acoustics research and professional development.",
+    "membership": [
+      "Member, Acoustical Society of America (ASA)"
+    ],
+    "strengths": [
+      "Planning",
+      "Leadership",
+      "Quick learner",
+      "Flexible and adaptable"
+    ],
+    "languages": [
+      "Burmese (native)",
+      "English (IELTS Band 6)"
+    ],
+    "skills": [
+      {
+        "group": "Acoustics & Measurement",
+        "items": [
+          "ODEON Room Acoustic Software",
+          "SPL, RT, STC measurements (Larson Davis 831)",
+          "Binaural sound recording (AMBEO Smart Headset)",
+          "Emotiv EEG for perceptual studies"
+        ]
+      },
+      {
+        "group": "Design & Visualization",
+        "items": [
+          "AutoCAD (2D/3D)",
+          "ArchiCAD",
+          "SketchUp, SketchUp Layout, V-Ray",
+          "Lumion, TwinMotion"
+        ]
+      },
+      {
+        "group": "Technical",
+        "items": [
+          "Python (data analysis for acoustic research)",
+          "Microsoft Office (Word, Excel, PowerPoint)"
+        ]
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "2026–Present",
+      "degree": "PhD in Architecture",
+      "institution": "National Taiwan University of Science and Technology (NTUST)"
+    },
+    {
+      "period": "2023–2025",
+      "degree": "Master of Architecture",
+      "institution": "National Taiwan University of Science and Technology (NTUST)"
+    },
+    {
+      "period": "2023–2025 · confirm dates",
+      "degree": "Bachelor of Architecture",
+      "institution": "West Yangon Technological University (WYTU)"
+    },
+    {
+      "period": "2011–2017",
+      "degree": "Bachelor of Technology in Architecture",
+      "institution": "West Yangon Technological University (WYTU)"
+    }
+  ],
+  "academicContributions": [
+    {
+      "title": "Conference presentation",
+      "subtitle": "Acoustic Week in Canada · Ottawa · May 2024",
+      "description": "Presented research on virtual acoustic simulation and perceptual study of reverberation in the Sandiaoling Ecological Tunnel, including source orientation, source–receiver distance, RT and EDT."
+    },
+    {
+      "title": "Urban Soundscape 2023",
+      "subtitle": "Academic website and field-measurement coursework",
+      "description": "Contributed to in-situ sound pressure level measurements and soundscape observations at three sites in northern Taiwan."
+    },
+    {
+      "title": "Architectural Innovation",
+      "subtitle": "Academic website",
+      "description": "Designed an academic website showcasing AI-generated creations as part of a Master's coursework project."
+    }
+  ],
+  "career": [
+    {
+      "role": "Architectural Design Assistant",
+      "organisation": "Ethereal Balance Design Studio, Taiwan",
+      "period": "May 2026–Present",
+      "tasks": [
+        "Support architectural design development, drawings, and 2D/3D models.",
+        "Conduct site visits and surveys to document existing conditions.",
+        "Produce 3D models, architectural renderings, and visualisations."
+      ]
+    },
+    {
+      "role": "Junior Architect",
+      "organisation": "Civil Aviation Department, Myanmar",
+      "period": "2020–2021",
+      "tasks": [
+        "Reviewed NOTAM information and prepared reports for the Chief Engineer.",
+        "Prepared architectural drawings, 2D/3D models, and visualisations using AutoCAD, SketchUp, and Lumion."
+      ]
+    },
+    {
+      "role": "Architectural Intern",
+      "organisation": "Design Mark8 Interior Design, Myanmar",
+      "period": "2018–2019",
+      "tasks": [
+        "Conducted site measurements and surveys and prepared architectural drawings.",
+        "Updated architectural and interior design drawings based on site conditions.",
+        "Monitored construction progress and coordinated drawing documentation."
+      ]
+    }
+  ],
+  "acoustics": {
+    "intro": "My acoustics work combines field measurements, room-acoustic simulation, soundscape research, and studies of human responses to sound.",
+    "activities": [
+      {
+        "title": "Acoustic measurement",
+        "description": "Supported SPL, reverberation-time (RT), and sound transmission class (STC) measurements in research and laboratory settings.",
+        "image": "images/acoustic-stc.png"
+      },
+      {
+        "title": "Acoustic simulation",
+        "description": "Developed and investigated a virtual acoustic model of the Sandiaoling Ecological Tunnel using ODEON to study reverberation behaviour.",
+        "image": "images/odeon-simulation.png"
+      },
+      {
+        "title": "Soundscape field research",
+        "description": "Participated in in-situ soundscape measurements and documentation at recreational and urban environments in northern Taiwan.",
+        "image": "images/tunnel-research.png"
+      },
+      {
+        "title": "EEG and human perception",
+        "description": "Contributed to EEG-based perceptual-response studies, including device operation, Python-based data processing, and interpretation.",
+        "image": "images/acoustic-teaching.png"
+      }
+    ]
+  },
+  "designProjects": [
+    {
+      "title": "Roller Sport Training Center",
+      "type": "Bachelor’s thesis · Architecture",
+      "description": "A dynamic training complex in Yangon integrating a main building, skate park, skate rink, and outdoor skating area. The concept transforms roller-sport movements and equipment into architectural forms.",
+      "image": "images/roller-sport/roller-view-1.jpg",
+      "gallery": [
+        "images/roller-sport/roller-view-2.jpg",
+        "images/roller-sport/roller-view-3.jpg",
+        "images/roller-sport/roller-view-4.jpg",
+        "images/roller-sport/roller-elevations.jpg",
+        "images/roller-sport/roller-concept.jpg"
+      ]
+    },
+    {
+      "title": "Aureo Hotel",
+      "type": "Assistant Architect · Architecture & Interior",
+      "description": "A hotel project in Yangon inspired by the idea of gold. Golden accents, grey tones, and warm neutral materials carry the concept across the building and guest-room interiors.",
+      "image": "images/design-pages/page-23.jpg",
+      "gallery": [
+        "images/design-pages/page-24.jpg",
+        "images/design-pages/page-25.jpg"
+      ]
+    },
+    {
+      "title": "Laydaunt Kan Home Extension",
+      "type": "Assistant Architect · Residential",
+      "description": "Surveyed and documented the existing building, recreated architectural drawings from original blueprints, and supported the extension design development and detailing.",
+      "image": "images/laydaunt-kan/laydaunt-model-view.jpg",
+      "gallery": [
+        "images/laydaunt-kan/laydaunt-sketch-view.jpg",
+        "images/laydaunt-kan/laydaunt-cutout-view.png",
+        "images/laydaunt-kan/laydaunt-roof-plan.png",
+        "images/laydaunt-kan/laydaunt-detail-plan-page-29.jpg"
+      ]
+    }
+  ],
+  "contact": {
+    "heading": "Let’s connect",
+    "description": "For architectural, research, or acoustic collaboration."
+  }
+}
