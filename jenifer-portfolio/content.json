@@ -22,8 +22,8 @@
       "Flexible and adaptable"
     ],
     "languages": [
-      "Burmese (native)",
-      "English (IELTS Band 6)"
+      "Burmese",
+      "English"
     ],
     "skills": [
       {
@@ -47,8 +47,8 @@
       {
         "group": "Technical",
         "items": [
-          "Python (data analysis for acoustic research)",
-          "Microsoft Office (Word, Excel, PowerPoint)"
+          "Python",
+          "Microsoft Office"
         ]
       }
     ]
